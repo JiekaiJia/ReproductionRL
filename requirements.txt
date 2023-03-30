@@ -1,0 +1,8 @@
+gymnasium
+gymnasium[classic-control]
+torch==1.12.1
+tensorboard
+
+
+
+
